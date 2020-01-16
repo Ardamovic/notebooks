@@ -8,7 +8,7 @@ There are tutorials for pyroot at https://root.cern/doc/master/group__tutorial__
 
 ## Exercise 1
 
-Read a data file in text format and plot graphs of that data. The data consists in measurements from a sensor over time.
+**read the sensor file and plot the temperature, humidy and pressure as a function of the unix time and in the format yy/mm/dd - hh:mm:ss**
 
 Related Notebooks
 * readfile.ipynb
