@@ -45,4 +45,13 @@ Download objects and refs from other repository
 Merge branch from another remote repository
 > git merge \<alias/branch\>
 
+Add new files to local repository
+> git add \<file name\> ...
+
+Commit changes to local repository
+> git commit -m "some comment about the changes" \<file name\> ...
+
+Push commits to remote repository
+> git push
+
 https://git-scm.com/
